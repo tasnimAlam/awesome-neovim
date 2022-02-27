@@ -548,7 +548,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 <!--lint ignore double-link-->
 - [mini.jump](https://github.com/echasnovski/mini.nvim#minijump) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for smarter jumping to a single character.
-- [mfussenegger/nvim-treehopper](https://github.com/mmfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter.
+- [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter.
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ### Code Runner
